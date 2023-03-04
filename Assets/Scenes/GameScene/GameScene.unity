@@ -714,7 +714,7 @@ Transform:
   m_Children:
   - {fileID: 2106378360}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 46, y: 0, z: 0}
 --- !u!1 &1963263363
 GameObject:
@@ -744,7 +744,7 @@ MeshCollider:
   m_GameObject: {fileID: 1963263363}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30

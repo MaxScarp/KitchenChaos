@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f53cbfa7a7f7db042864dbe4b339a904, type: 3}
   m_Name: MEGAburgerSO
   m_EditorClassIdentifier: 
-  nameString: Megaburger
+  nameString: MEGAburger
   kitchenObjectSOList:
   - {fileID: 11400000, guid: 5dd3154dcccdcba42819bd9b768fd6f7, type: 2}
   - {fileID: 11400000, guid: c97d4db7b8e286a43813f1dab33ac58a, type: 2}
